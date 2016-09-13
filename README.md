@@ -4,4 +4,4 @@ Your task is to use the Google Maps Road API [Snap to Roads](https://developers.
 
 Examples:
 
-![Alt text](maps/raw_data_mapped.png?raw=true "Raw trip data drawn" | height=100)
+![Alt text](maps/raw_data_mapped.png?raw=true "Raw trip data drawn" =100x)
