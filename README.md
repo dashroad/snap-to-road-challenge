@@ -16,6 +16,6 @@ You can use the data in [test_data](test_data) to test your code.
 
 BONUS: if you can think of a way to reduce the number of http request to Google Maps Road API for longer trip.
 
-Questions: feel free to email quan@dashroad.com.
+Questions: feel free to email tech@dashroad.com.
 
 Dashroad web front end interview question 2016.
